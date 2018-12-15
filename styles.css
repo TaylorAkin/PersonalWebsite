@@ -1,0 +1,68 @@
+.border-radius-circle {
+    border-radius: 20px;
+}
+
+#video {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+    
+   
+}
+
+div.videocontainer {
+
+    height: 300px;
+    max-width: 90%;
+    padding: 30px;
+    margin: auto;
+    
+    
+}
+
+.fa {
+    padding: 13px;
+    font-size: 0px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 8px;
+    border-radius: 50%;
+    
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+
+  }
+
+  .fa-instagram {
+    background: #d6327e;
+    color: white;
+  }
+
+.home {
+  width: 39px;
+  height: 39px;
+  border-radius: 50%;
+}
+
+
+body {
+  background-image: url("/images/Shasta.jpeg");
+  background-size: cover;
+  background-position: center;
+  
+}
+
+
+.text {
+  color: white;
+  font-family: 'Franklin Gothic Medium';
+
+}
